@@ -1,1 +1,1 @@
-An e-commerce web application built on python and django, deployed on AWS
+An e-commerce web application built on python and django, deployed on AWS (WIP)

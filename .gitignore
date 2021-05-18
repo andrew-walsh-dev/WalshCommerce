@@ -2,3 +2,5 @@ env
 .git
 walshCommerce/__pycache__
 accounts
+*.__pycache__
+settings.py
